@@ -1,0 +1,4 @@
+package: rfc3986
+script:
+  - conda build .
+build_targets: conda
